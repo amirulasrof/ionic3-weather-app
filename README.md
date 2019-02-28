@@ -2,6 +2,5 @@
 
 Simple weather app example
 
-Simply fork @ download zip code and run command npm install
+Simply fork @ download zip code and run command "npm install" and then "ionic serve"
 
-Tq.
